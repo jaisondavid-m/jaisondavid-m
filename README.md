@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jaison David</h1>
-<h3 align="center">Full Stack Developer | Web Application Enthusiast</h3>
+<h1 align="center">Hi, I'm Jaison David</h1>
+<h3 align="center">Full Stack Developer | Problem Solver</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jaisondavid-m&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
@@ -12,7 +12,7 @@
 - 💻 Passionate **Full Stack Developer**
 - 🌱 Currently building modern web applications
 - ⚡ Interested in clean UI, scalable backend & problem-solving
-- 🚀 Always learning new technologies and best practices
+- 🚀 Solving Real World Problems with Modern Technlogies
 
 ---
 
