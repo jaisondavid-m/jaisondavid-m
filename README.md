@@ -24,25 +24,22 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🤝 Let’s Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/jaison-david-m-a14072360/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?logo=linkedin&style=for-the-badge" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/jaisondavid-m" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Projects-black?logo=github&style=for-the-badge" />
+    <img src="https://skillicons.dev/icons?i=github" height="42" />
   </a>
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaisondavid-m&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaisondavid-m&theme=tokyonight&hide_border=true" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="tel:+919843777817">
+    <img src="https://img.icons8.com/ios-filled/50/4a90e2/phone.png" height="42"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:jaison7373@gmail.com">
+    <img src="https://img.icons8.com/ios-filled/50/ea4335/gmail.png" height="42"/>
+  </a>
 </p>
