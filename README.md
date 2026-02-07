@@ -19,7 +19,7 @@
 ## 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,js,python,react,html,css,tailwind,nodejs,mysql&perline=9" />
+  <img src="https://skillicons.dev/icons?i=c,js,python,react,html,css,tailwind,nodejs,mysql,golang,mongodb&perline=11" />
 </p>
 
 ---
@@ -45,12 +45,4 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaisondavid-m&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📌 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaisondavid-m&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
